@@ -1,6 +1,6 @@
 ## Sales Insights Data Analysis Project
 
-<centre><img src="/"C:\Users\saifu\Desktop\Tableau sales insight.jpg""></centre>
+<centre><img src="/"Tableau sales insight"></centre>
 
 # Created by Saif
 

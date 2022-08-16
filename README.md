@@ -2,7 +2,6 @@
 
 <centre><img src="/Tableau sales insight.jpg"></centre>
 
-# Created by Saif
 
 
 
